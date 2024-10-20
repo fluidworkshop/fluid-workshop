@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diletta Chiaro | AAAI FLUID Workshop</title>
-    <link>https://fluid-workshop.github.io/author/diletta-chiaro/</link>
-      <atom:link href="https://fluid-workshop.github.io/author/diletta-chiaro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://fluidworkshop.github.io/author/diletta-chiaro/</link>
+      <atom:link href="https://fluidworkshop.github.io/author/diletta-chiaro/index.xml" rel="self" type="application/rss+xml" />
     <description>Diletta Chiaro</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://fluid-workshop.github.io/author/diletta-chiaro/avatar_hu6cca8900ec16f9b51dda1bece371d28b_94638_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://fluidworkshop.github.io/author/diletta-chiaro/avatar_hu6cca8900ec16f9b51dda1bece371d28b_94638_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Diletta Chiaro</title>
-      <link>https://fluid-workshop.github.io/author/diletta-chiaro/</link>
+      <link>https://fluidworkshop.github.io/author/diletta-chiaro/</link>
     </image>
     
   </channel>
